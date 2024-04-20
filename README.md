@@ -1,4 +1,4 @@
-# SEL Assistant Chatbot
+# SEL Assistant Chatbot Frontend
 
 Welcome to the SEL Assistant Chatbot frontend repository! This project is dedicated to providing a responsive, empathetic chatbot designed to assist students outside of school hours. It focuses on identifying and managing emotions, offering social and emotional support, and providing guidance based on Social and Emotional Learning (SEL) competencies. Our chatbot is developed with privacy and safety in mind, adhering strictly to COPPA compliance, ensuring a safe and secure environment for users under 13 years old.
 
