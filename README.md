@@ -46,7 +46,8 @@ npm --version
 
 The application will start running on `http://localhost:3000`.
 
-Backend Integration
+
+## Backend Integration
 For the full functionality of the SEL Assistant Chatbot, integrate with the backend available at:
 
 [Backend Repository](https://github.com/SwAt1563/ed_tech_llm) - Enhances the chatbot's capabilities to interact dynamically with students.
